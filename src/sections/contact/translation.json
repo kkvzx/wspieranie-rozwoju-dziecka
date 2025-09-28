@@ -1,0 +1,27 @@
+{
+  "title": "Kontakt",
+  "subtitle": "Gotowy na rozpoczęcie? Skontaktuj się ze mną",
+  "info": {
+    "title": "Skontaktuj się ze mną",
+    "description": "Wyślij mi wiadomość, a odpowiem tak szybko, jak to możliwe.",
+    "details": {
+      "loading": "Loading...",
+      "email_label":"Email",
+      "phone_label":"Telefon",
+      "hours": {
+        "label": "Godziny pracy",
+        "value": "Poniedziałek - Piątek: 9:00 - 18:00\nSobota: 10:00 - 16:00"
+      }
+    }
+  },
+  "form": {
+    "labels": {
+      "name": "Imię i nazwisko",
+      "email": "Email",
+      "phone": "Telefon",
+      "subject": "Temat",
+      "message": "Wiadomość"
+    },
+    "submitButton": "Wyślij wiadomość"
+  }
+}

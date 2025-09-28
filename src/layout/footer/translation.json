@@ -1,0 +1,24 @@
+{
+  "brand": {
+    "name": "Wspieranie Rozwoju Dziecka",
+    "description": "Jestem tutaj, aby pomóc twoim dzieciom w rozwoju"
+  },
+  "sections": {
+    "quickLinks": {
+      "title": "Linki",
+      "links": {
+        "home": "Strona główna",
+        "about": "O nas",
+        "services": "Usługi",
+        "contact": "Kontakt"
+      }
+    },
+    "contactInfo": {
+      "title": "Kontakt",
+      "email_label": "Email:",
+      "phone_label": "Telefon:"
+    }
+  },
+  "loading": "Loading...",
+  "copyright": "Wspieranie Rozwoju Dziecka. Wszelkie prawa zastrzeżone."
+}

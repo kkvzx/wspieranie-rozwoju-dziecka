@@ -1,0 +1,10 @@
+{
+  "brandName": "Wspieranie Rozwoju Dziecka",
+  "menuToggleLabel": "Przełącz menu nawigacji",
+  "navigation": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "services": "Usługi",
+    "contact": "Kontakt"
+  }
+}

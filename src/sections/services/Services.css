@@ -106,17 +106,11 @@
 
 /* Service icons */
 .service-icon {
-  width: 80px;
-  height: 80px;
-  border-radius: var(--radius-xl);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 2.5rem;
+  width: 40px;
+  height: 40px;
   margin-bottom: var(--space-lg);
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: var(--color-darker-pink);
+    border: 1px solid rgba(255, 255, 255, 0.3);
   transition: all 0.3s ease;
 }
 

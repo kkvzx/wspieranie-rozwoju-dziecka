@@ -2,21 +2,22 @@
   "title": "O mnie",
   "subtitle": "Specjalistka wspierająca rozwój dzieci z pasją i doświadczeniem",
   "content": {
-    "paragraph1": "Jestem terapeutką dziecięcą z wieloletnim doświadczeniem w pracy z dziećmi w różnym wieku. Moją misją jest wspieranie małych pacjentów w odkrywaniu ich potencjału i pokonywaniu wyzwań rozwojowych. Każde dziecko jest dla mnie wyjątkowe i zasługuje na indywidualne podejście.",
-    "paragraph2": "W swojej pracy łączę nowoczesne metody terapeutyczne z ciepłym, przyjaznym podejściem. Współpracuję ściśle z rodzicami, tworząc bezpieczną przestrzeń, w której dzieci mogą rozwijać się w swoim tempie. Wierzę, że każdy mały krok to wielki sukces na drodze do samodzielności."
+    "paragraph1": "Jestem Pedagogiem Specjalnym z uprawnieniami z zakresu oligofrenopedagogiki, wczesnego wspomagania rozwoju, edukacji przedszkolnej i wczesnoszkolnej oraz terapii dzieci z autyzmem. Prowadzę również terapię ręki oraz Sensomotoryczną Terapię Widzenia. Posiadam wieloletnie doświadczenie w pracy z dziećmi w różnym wieku.",
+    "paragraph2": "Moją misją jest wspieranie małych pacjentów w odkrywaniu ich potencjału i pokonywaniu wyzwań rozwojowych. Każde dziecko jest dla mnie wyjątkowe i zasługuje na indywidualne podejście.",
+    "paragraph3": "Wspieram dzieci w nabywaniu umiejętności poprzez zabawę, dostosowane aktywności i ćwiczenia w sprzyjającej atmosferze szacunku i serdeczności."
   },
   "features": [
     {
       "title": "Indywidualne Podejście",
-      "description": "Każde dziecko otrzymuje spersonalizowany plan terapii dostosowany do jego potrzeb"
+      "description": "Plan terapii dostosowuje do indywidualnych potrzeb i mocnych stron dziecka."
     },
     {
       "title": "Współpraca z Rodzicami",
-      "description": "Angażuję rodziców w proces terapii, zapewniając wsparcie całej rodzinie"
+      "description": "W proces terapeutyczny angażuje rodziców i najbliższe otoczenie. Przekazuję wskazówki, które pomogą w realizacji efektów."
     },
     {
-      "title": "Sprawdzone Metody",
-      "description": "Wykorzystuję nowoczesne, naukowo potwierdzone techniki terapeutyczne"
+      "title": "Wspierająca Atmosfera",
+      "description": "Zajęcia odbywają się w oparciu o zainteresowania i możliwości dziecka. Dostosowuje formy i metody do jego możliwości. Staram się, aby każde dziecko wierzyło w swoje możliwości."
     }
   ]
 }

@@ -41,26 +41,26 @@ const Hero = () => {
                         <img
                             src={getPublicImagesUrl('hero-child-1.jpg')}
                             loading="lazy"
-                            alt="Dziecko podczas terapii rozwojowej"
-                            className="hero-image grid-item-1"
+                            alt="terapia 1"
+                            className="hero-image"
                         />
                         <img
                             src={getPublicImagesUrl('hero-child-2.jpg')}
                             loading="lazy"
-                            alt="Zajęcia grupowe dla dzieci"
-                            className="hero-image grid-item-2"
+                            alt="terapia 2"
+                            className="hero-image"
                         />
                         <img
                             src={getPublicImagesUrl('hero-child-3.jpg')}
                             loading="lazy"
-                            alt="Indywidualna praca z dzieckiem"
-                            className="hero-image grid-item-3"
+                            alt="terapia 3"
+                            className="hero-image"
                         />
                         <img
                             src={getPublicImagesUrl('hero-child-4.jpg')}
                             loading="lazy"
-                            alt="Rodzice i dziecko podczas konsultacji"
-                            className="hero-image grid-item-4"
+                            alt="terapia 4"
+                            className="hero-image"
                         />
                     </div>
                 </div>

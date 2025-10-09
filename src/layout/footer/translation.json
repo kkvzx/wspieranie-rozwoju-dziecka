@@ -5,10 +5,10 @@
   },
   "sections": {
     "quickLinks": {
-      "title": "Linki",
+      "title": "Skróty",
       "links": {
         "home": "Strona główna",
-        "about": "O nas",
+        "about": "O mnie",
         "services": "Usługi",
         "contact": "Kontakt"
       }

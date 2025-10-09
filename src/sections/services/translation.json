@@ -1,17 +1,13 @@
 {
   "title": "W czym mogę pomóc twojemu dziecku?",
   "subtitle": "Profesjonalne wsparcie rozwoju dziecka dostosowane do indywidualnych potrzeb",
-  "readingWriting": {
-    "title": "Trening czytania i pisania",
-    "description": "Wspieramy rozwój umiejętności czytania i pisania poprzez specjalistyczne ćwiczenia dostosowane do wieku i możliwości dziecka."
+  "schoolSkills": {
+    "title": "Trening umiejętności szkolnych",
+    "description": "Wspieranie dzieci w nabywaniu umiejętności czytania, pisania, liczenia. Poprzez aktywności dostosowane do potrzeb i wieku dziecka."
   },
   "supportDifficulties": {
-    "title": "Wspieranie dzieci z trudnościami",
-    "description": "Indywidualne podejście do dzieci z różnymi trudnościami rozwojowymi, zapewniające bezpieczne i skuteczne wsparcie."
-  },
-  "cognitiveSkills": {
-    "title": "Doskonalenie umiejętności poznawczych",
-    "description": "Rozwijamy pamięć, uwagę, myślenie logiczne i inne funkcje poznawcze przez zabawę i strukturalne ćwiczenia."
+    "title": "Wspieranie dzieci z trudnościami rozwojowymi",
+    "description": "Terapia przeznaczona dla dzieci ze spektrum autyzmu, niepełnosprawnością intelektualną, trudnościami poznawczymi lub zagrożonymi wystąpieniem trudności rozwojowych."
   },
   "handTherapy": {
     "title": "Terapia ręki",
@@ -20,6 +16,10 @@
   "visionTherapy": {
     "title": "Sensomotoryczna terapia widzenia",
     "description": "Terapia usprawniająca funkcje wzrokowe, koordynację wzrokowo-ruchową i percepcję wzrokową u dzieci."
+  },
+  "cognitiveSkills": {
+    "title": "Doskonalenie funkcji poznawczych",
+    "description": "Rozwijamy pamięć, uwagę, myślenie logiczne i inne funkcje poznawcze przez zabawę i strukturalne ćwiczenia."
   },
   "groupActivities": {
     "title": "Zajęcia grupowe",

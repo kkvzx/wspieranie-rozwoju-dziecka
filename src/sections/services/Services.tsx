@@ -22,19 +22,14 @@ interface Service {
 const Services = () => {
     const services: Service[] = [
         {
-            key: 'readingWriting',
-            data: servicesText.readingWriting,
+            key: 'schoolSkills',
+            data: servicesText.schoolSkills,
             icon: faBook,
         },
         {
             key: 'supportDifficulties',
             data: servicesText.supportDifficulties,
             icon: faQuestion
-        },
-        {
-            key: 'cognitiveSkills',
-            data: servicesText.cognitiveSkills,
-            icon: faVolleyballBall
         },
         {
             key: 'handTherapy',
@@ -45,6 +40,11 @@ const Services = () => {
             key: 'visionTherapy',
             data: servicesText.visionTherapy,
             icon: faEye
+        },
+        {
+            key: 'cognitiveSkills',
+            data: servicesText.cognitiveSkills,
+            icon: faVolleyballBall
         },
         {
             key: 'groupActivities',

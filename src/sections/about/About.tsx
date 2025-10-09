@@ -24,6 +24,7 @@ const About = () => {
                         <div className="about-text">
                             <p>{aboutText.content.paragraph1}</p>
                             <p>{aboutText.content.paragraph2}</p>
+                            <p>{aboutText.content.paragraph3}</p>
                         </div>
                         <div className="about-features">
                             {aboutText.features.map((feature, index) => (

@@ -5,7 +5,6 @@ import {FloatingShapeSize} from '../../components/floatingShape/constants/floati
 import {FloatingShapeColor} from '../../components/floatingShape/constants/floatingShapeColor'
 import {FloatingShapeAnimation} from '../../components/floatingShape/constants/floatingShapeAnimation'
 import './Hero.css'
-import {getPublicImagesUrl} from "../../utils/getPublicImagesUrl.ts";
 
 const Hero = () => {
     return (
@@ -39,25 +38,25 @@ const Hero = () => {
                 <div className="hero-visual">
                     <div className="hero-image-grid">
                         <img
-                            src={getPublicImagesUrl('hero-child-1.jpg')}
+                            src='/images/hero-child-1.jpg'
                             loading="lazy"
                             alt="terapia 1"
                             className="hero-image"
                         />
                         <img
-                            src={getPublicImagesUrl('hero-child-2.jpg')}
+                            src='/images/hero-child-2.jpg'
                             loading="lazy"
                             alt="terapia 2"
                             className="hero-image"
                         />
                         <img
-                            src={getPublicImagesUrl('hero-child-3.jpg')}
+                            src='/images/hero-child-3.jpg'
                             loading="lazy"
                             alt="terapia 3"
                             className="hero-image"
                         />
                         <img
-                            src={getPublicImagesUrl('hero-child-4.jpg')}
+                            src='/images/hero-child-4.jpg'
                             loading="lazy"
                             alt="terapia 4"
                             className="hero-image"

@@ -1,7 +1,6 @@
 import {Sections} from '../../constants/sections'
 import aboutText from './translation.json'
 import './About.css'
-import {getPublicImagesUrl} from "../../utils/getPublicImagesUrl.ts";
 
 const About = () => {
     return (

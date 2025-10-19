@@ -38,25 +38,25 @@ const Hero = () => {
                 <div className="hero-visual">
                     <div className="hero-image-grid">
                         <img
-                            src='/images/hero-child-1.jpg'
+                            src='/images/hero-child-1.webp'
                             loading="lazy"
                             alt="terapia 1"
                             className="hero-image"
                         />
                         <img
-                            src='/images/hero-child-2.jpg'
+                            src='/images/hero-child-2.webp'
                             loading="lazy"
                             alt="terapia 2"
                             className="hero-image"
                         />
                         <img
-                            src='/images/hero-child-3.jpg'
+                            src='/images/hero-child-3.webp'
                             loading="lazy"
                             alt="terapia 3"
                             className="hero-image"
                         />
                         <img
-                            src='/images/hero-child-4.jpg'
+                            src='/images/hero-child-4.webp'
                             loading="lazy"
                             alt="terapia 4"
                             className="hero-image"

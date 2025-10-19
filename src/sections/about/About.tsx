@@ -9,7 +9,7 @@ const About = () => {
                 <div className="about-grid">
                     <div className="about-visual">
                         <img
-                            src='/images/about-photo.png'
+                            src='/images/about-photo.webp'
                             loading="lazy"
                             alt="Specjalista pracujący z dzieckiem"
                             className="about-image"
